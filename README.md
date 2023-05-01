@@ -1,4 +1,4 @@
-# Forever Temporary Mail Bot
+# FeedGram Telegram Bot
 
 [![GitHub license](https://img.shields.io/badge/LICENSE-MIT-orange)](https://github.com/WASCIV/Forevermail/blob/main/LICENSE)
 [![GitHub stars](https://img.shields.io/badge/StarME-Star-blue)](https://github.com/WASCIV/Forevermail/stargazers)
@@ -120,7 +120,7 @@ _G = '1334385210:AAEn-8Jeb_vcyE5ww2RFfj78K4diZ7UlEFE' Instead of 'YOUR_BOT_TOKEN
 
     If you want to use it for personal use, you can just run the script on your PC.
 
-    Finally, run python tempmail.py.
+    Finally, run python sendme.py.
 
 ``` Usage: /start - To recieve messages 
 ```
