@@ -127,7 +127,7 @@ _G = '1334385210:AAEn-8Jeb_vcyE5ww2RFfj78K4diZ7UlEFE' Instead of 'YOUR_BOT_TOKEN
 
 ## Video Tutorial On How to Use ?
 
-https://youtu.be/HqSVxZ-SGzo
+https://youtu.be/C6rafVDmubU
 
 
 ## Screenshots
