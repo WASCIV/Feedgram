@@ -1,4 +1,4 @@
-# Forever Temporary Mail Bot
+# FeedGram Telegram Bot
 
 [![GitHub license](https://img.shields.io/badge/LICENSE-MIT-orange)](https://github.com/WASCIV/Forevermail/blob/main/LICENSE)
 [![GitHub stars](https://img.shields.io/badge/StarME-Star-blue)](https://github.com/WASCIV/Forevermail/stargazers)
